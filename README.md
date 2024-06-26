@@ -3,7 +3,7 @@
 
 - 🔭 I’m the creator of [meeLib](https://github.com/yameessen/meeLib)
   
-- 🌱 I’m currently looking for **opportunities as a FX TD in the CGI industry**
+- 🌱 I’m currently working at [Unit Image](https://www.unit-image.fr/) as a **HOUDINI TD**
 
 - 👨‍🏫 Graduated from [New3dge](http://www.new3dge.com/) since 2021
   
